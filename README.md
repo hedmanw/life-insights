@@ -32,3 +32,7 @@ Lecture 6
 > Objects don't talk to eachother - that's nonsense!
 
 Lecture 6
+
+> If you're a doctor, you're going to have to cut up dead corpses, otherwise you don't know what's inside.
+
+Lecture 8
