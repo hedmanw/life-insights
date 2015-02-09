@@ -36,3 +36,7 @@ Lecture 6
 > If you're a doctor, you're going to have to cut up dead corpses, otherwise you don't know what's inside. [somehow regarding Erlang and uptime in telecom applications]
 
 Lecture 8
+
+> Did you hear about mutex back in the nursery?
+
+Lecture 8
