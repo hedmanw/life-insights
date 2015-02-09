@@ -5,7 +5,7 @@ This is a collection of insights, as provided by everybody's favorite philosophe
 
 Lecture 1
 
-> Software manufacturers get away with intolerable levels of incompetence.
+> Software manufacturers get away with intolerable levels of incompetence. [regarding Microsoft]
 
 Lecture 1
 
@@ -13,7 +13,7 @@ Lecture 1
 
 Lecture 2
 
-> Some damned imperative language [regarding Java]
+> Some damned imperative language. [regarding Java]
 
 Lecture 2
 
@@ -33,6 +33,6 @@ Lecture 6
 
 Lecture 6
 
-> If you're a doctor, you're going to have to cut up dead corpses, otherwise you don't know what's inside.
+> If you're a doctor, you're going to have to cut up dead corpses, otherwise you don't know what's inside. [somehow regarding Erlang and uptime in telecom applications]
 
 Lecture 8
