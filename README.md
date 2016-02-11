@@ -38,5 +38,12 @@ Lecture 6
 Lecture 8
 
 > Did you hear about mutex back in the nursery?
-
 Lecture 8
+
+Here are some other intrauniversal truths by our favorite confused software engineer.
+
+> Did you like the dog and pony show?
+
+> That is a Mickey Mouse requirement.
+
+> The important thing is to think about the important things.
